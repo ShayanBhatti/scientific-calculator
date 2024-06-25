@@ -17,8 +17,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/simple-calculator-react.git
-cd simple-calculator-react
+git clone https://github.com/ShayanBhatti/scientific-calculator.git
+cd scientific-calculator
 Install dependencies:
 
 bash
@@ -47,4 +47,4 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
-Inspired by example-calculator
+Inspired by simple-calculator
